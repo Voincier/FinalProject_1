@@ -14,3 +14,13 @@
 2. GET will show a selected/all Payment Details data from 'app.db'
 3. PUT will update an existing Payment Details data based on the 'paymentDetailsId'
 4. DELETE will delete the Payment Details data from 'app.db' based on 'paymentDetailsId'
+
+### Shortcut to other project
+
+Assignment 1 : https://github.com/Voincier/Assignment-1C-Basic
+
+Assignment 2 : https://github.com/Voincier/Assignment-2-Database
+
+Assignment 4 : https://github.com/Voincier/Assignment-4-GroovyBasic
+
+Final Project 2 : https://github.com/Voincier/Pokemon-API-Groovy-JMeter-FinalProject-Graldy
